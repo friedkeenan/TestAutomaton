@@ -6,4 +6,4 @@ Controls:
 - Press R to reset
 - Click anywhere to change the size of the black buffer
 
-![](http://i.imgur.com/MaoMV0D.gifv)
+![http://i.imgur.com/MaoMV0D.gifv]()
